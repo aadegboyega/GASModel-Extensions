@@ -1,6 +1,8 @@
 # GAS
 Generalized Autoregressive Score Models in R
 
+This work extends the code originally published by Catania et el by adding the lognormal and Gumbel models to GAS
+
 `GAS` ([Catania et al., 20xx](https://CRAN.R-project.org/package=GAS)) implements the Generalized Autoregressive 
 Score (GAS) framework in R. The GAS package provides 
 functions to simulate univariate and multivariate GAS processes,
